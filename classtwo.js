@@ -9,5 +9,5 @@ class hospital{
         this.another_hospital = newHospital;
     }
 }
-let x =new hospital("abc",51,"O+ve","5th", new newHospital('ishwar',50,961103258))
+let x =new hospital("abc",51,"O+ve","5th", new newHospital('xyz',50,961103258))
 console.log(x)
